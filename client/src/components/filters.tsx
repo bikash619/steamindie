@@ -184,7 +184,7 @@ export default function Filters({ onFilterChange }: FiltersProps) {
             className="w-full"
           />
           <div className="text-sm text-muted-foreground">
-            Showing games from <strong>{releaseYear[0]}</strong>
+            Showing games of <strong>{releaseYear[0]}</strong>
           </div>
         </div>
       </CardContent>
